@@ -10,7 +10,7 @@ import Blogs from './Pages/Blogs';
 import CompareProduct from './Pages/CompareProduct';
 import Login from './Pages/Login';
 import Signup from './Pages/Signup';
-import Singleptoduc from './Pages/Singleptoduc';
+
 
 function App() {
   return (
@@ -26,7 +26,7 @@ function App() {
                  <Route path='/Compare-Product' element={<CompareProduct />} />
                  <Route path='/Login' element={<Login />} />
                  <Route path='Login/Signup' element={<Signup />} />
-                 <Route path='OurStore/Singleptoduc' element={<Singleptoduc />} />
+
               </Route>
           </Routes>
       </BrowserRouter>
