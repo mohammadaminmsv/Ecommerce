@@ -1,3 +1,3 @@
 ### Making WEBsite By my own 
 
-i will be glad that you visit my github account 
+I glad that you visited my github account 
